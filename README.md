@@ -10,7 +10,7 @@
 
 [🇬🇧 English](#-english) · [🇷🇺 Русский](#-русский)
 
-![Gemini Power UI Preview](./assets/preview.gif)
+![Gemini Power UI Preview](./assets/preview.jpg)
 
 *✨ 100% vibecoded directly inside Gemini Web using **Neon High** — zero frameworks, zero external dependencies, pure stubbornness.*
 
